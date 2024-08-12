@@ -1,0 +1,17 @@
+#nerves 
+
+## Parent Nerve
+[[Brachial Plexus]]
+
+
+## Innervates
+[[Flexor Carpi Ulnaris]]
+Medial Half of [[Flexor Digitorum Profundus]]
+
+## Divides
+[[Superficial Branch of the Ulnar Nerve]]
+[[Deep Branch of the Ulnar Nerve]]
+
+
+## Other Information
+enters the hand through [[Guyon’s Tunnel]]
