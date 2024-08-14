@@ -2,7 +2,7 @@
 title: Welcome to Aarthi's Medical School Obsidian
 ---
 # Getting Started
-[Medical School Lectures](<Medical School Lectures.md>)
+[Medical School Lectures](<Medical School Lectures.md>) \\
 [Radiology](<Radiology.md>)
 
 # Search Function
