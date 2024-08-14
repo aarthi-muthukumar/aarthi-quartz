@@ -4,5 +4,5 @@
 Shoulder Dislocation
 
 ## Radiology Views
-[[Radiology Wiki#Grashey View]]
-[[Radiology Wiki#Transcapular “Y” View]]
+- [[Radiology Wiki#Grashey View]]
+- [[Radiology Wiki#Transcapular “Y” View]]
