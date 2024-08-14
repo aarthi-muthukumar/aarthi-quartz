@@ -2,8 +2,8 @@
 title: Welcome to Aarthi's Medical School Obsidian
 ---
 # Getting Started
-[[Medical School Lectures]]
-[[Radiology]]
+[Medical School Lectures Wiki](content/Medical School Lectures.md)
+[Radiology Wiki](content/Radiology.md)
 
 
 # Search Function
