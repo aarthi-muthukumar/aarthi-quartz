@@ -8,4 +8,4 @@
 - [[MSK-GA Shoulder]]
 - [[MSK-GA Cubital Fossa and Brachium]]
 - [[MSK-GA Forearm]]
-- [[MSK-GA Hand]]
+- [[MSK-GA Hand]]\
