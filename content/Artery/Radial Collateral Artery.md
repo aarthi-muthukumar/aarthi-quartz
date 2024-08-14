@@ -1,5 +1,9 @@
-#perfusion
-Perfusion Type: #artery 
+---
+tags:
+  - structure
+  - perfusion
+  - " artery"
+---
 
 ## Parent
 [[Deep Brachial Artery (Profunda Brachii)]]

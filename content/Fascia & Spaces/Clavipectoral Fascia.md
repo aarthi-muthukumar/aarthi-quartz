@@ -1,3 +1,7 @@
+---
+tags:
+  - structure
+---
 Fascia that separates the [[Pectoralis Minor]] from the [[Pectoralis Major]]
 
 ## Costocoracoid  Membrane

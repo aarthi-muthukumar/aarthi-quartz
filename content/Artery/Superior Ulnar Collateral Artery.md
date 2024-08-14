@@ -1,5 +1,10 @@
-#perfusion
-Perfusion Type: #artery 
+---
+tags:
+  - structure
+  - perfusion
+  - " artery"
+---
+
 
 ## Parent
 [[Brachial Artery]]

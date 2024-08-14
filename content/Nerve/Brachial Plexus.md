@@ -1,3 +1,7 @@
+---
+tags:
+  - structure
+---
 #nerves 
 Referenced in: 
 - [[MSK-GA Brachial Plexus & Nerves of the Upper Limb]]

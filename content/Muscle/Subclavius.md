@@ -1,3 +1,7 @@
+---
+tags:
+  - structure
+---
 # Subclavius
 #Muscle
 

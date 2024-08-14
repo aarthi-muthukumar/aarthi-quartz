@@ -1,3 +1,7 @@
+---
+tags:
+  - structure
+---
 #nerves 
 ## Parent Nerve
 [[Brachial Plexus]], C5

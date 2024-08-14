@@ -1,4 +1,10 @@
-#artery
+---
+tags:
+  - structure
+  - perfusion
+  - " artery"
+---
+
 
 ## parent
 [[Subclavian Artery]]

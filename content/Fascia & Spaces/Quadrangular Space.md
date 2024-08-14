@@ -1,3 +1,7 @@
+---
+tags:
+  - structure
+---
 ## Bounded by
 Superior: [[Teres Minor]]
 Inferior: [[Teres Major]]

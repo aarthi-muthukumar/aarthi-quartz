@@ -1,3 +1,7 @@
+---
+tags:
+  - structure
+---
 # Lumbar Triangle of Petit
 > One of two Superficial Back Triangles. See [[Triangle of Auscultation]]
 

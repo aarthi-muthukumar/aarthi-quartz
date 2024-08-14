@@ -1,3 +1,7 @@
+---
+tags:
+  - structure
+---
 #Muscle 
 ## Function
 Stabilize the glenohumeral joint, allow for motion of the shoulder

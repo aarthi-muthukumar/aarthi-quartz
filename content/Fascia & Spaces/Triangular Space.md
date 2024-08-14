@@ -1,3 +1,7 @@
+---
+tags:
+  - structure
+---
 ## Bounded By
 [[Teres Minor]]
 [[Teres Major]]
