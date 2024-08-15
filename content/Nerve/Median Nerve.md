@@ -26,4 +26,5 @@ tags:
 		
 
 ## Downstream
-Becomes the [[Medial Cutaneous Nerve of the Forearm]]
+- Branches off just after the cubital fossa to become the [[Anterior Interosseous Nerve]]
+	- Continues on and runs between the [[Flexor Digitorum Superficialis]] and the [[Flexor Digitorum Profundus]]. 

@@ -12,7 +12,7 @@ tags:
 Wrist Extensors of the Forearm
 
 ## Downstream
-Becomes the [[Posterior Cutaneous Nerve of the Forearm]]
+- pierces the [[Supinator]] and becomes the [[Posterior Cutaneous Nerve of the Forearm]]
 
 
 ## Other Informatoin

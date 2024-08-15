@@ -9,3 +9,4 @@ tags:
 
 
 ## Innervates
+- provides sensory information to the posterior portion of the forearm 

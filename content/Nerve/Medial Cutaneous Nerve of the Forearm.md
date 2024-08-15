@@ -5,7 +5,8 @@ tags:
 #nerves 
 
 ## Parent Nerve
-[[Median Nerve]]
+[[Brachial Plexus#Medial Cord]]
 
 
 ## Innervates
+Provides **sensory** innervation to the medial portion of the forearm. 

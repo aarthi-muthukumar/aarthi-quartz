@@ -9,7 +9,10 @@ tags:
 ### Intertubercular Sulcus of the Humerus
 - Attachment point for [[Pectoralis Major]] and [[Latissimus Dorsi]]
 ### Surgical Neck of the Humerus
-### Epicondyle of the Humerus 
+### Epicondyle of the Humerus
+- has a Medial and Lateral portion
+### Lateral Supracondyle 
+- insertaion point for the [[Brachioradialis]]
 ### Radial Groove of the Humerus
 - See [[Radial Nerve]]
 ### Greater Tubercle of Humerus
@@ -18,6 +21,8 @@ tags:
 - Attachment point for [[Subscapularis]]
 ### Deltoid Tuberosity
 - Insertion point for [[Deltoid]]
+### Styloid Process
+- Attachment point for the [[Brachioradialis]]
 
 ## Diagnoses
 - Medial Epicondyle inflammation causes [[Medial Epicondylitis]]
