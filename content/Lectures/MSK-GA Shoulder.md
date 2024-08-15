@@ -30,5 +30,5 @@
 
 •Describe the vessels of three major branches of the axillary artery
 Branch 1: [[Superior Thoracic Artery]] 
-Branch 2: [[Thoracoacromial (Trunk) Artery]] , [[Lateral Pectoral Artery]]
+Branch 2: [[Thoracoacromial (Trunk) Artery]] , [[Lateral Thoracic Artery]]
 Branch 3: [[Anterior Circumflex Humoral Artery]], [[Posterior Circumflex Humoral Artery]], [[Subscapular Artery]]

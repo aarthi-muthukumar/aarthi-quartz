@@ -18,7 +18,7 @@ tags:
 ### Second Division: Two Branches
 - deep to [[Pectoralis Minor]]
 [[Thoracoacromial (Trunk) Artery]]
-[[Lateral Pectoral Artery]]
+[[Lateral Thoracic Artery]]
 
 ### Third Division: Three Branches
 - below [[Pectoralis Minor]]
