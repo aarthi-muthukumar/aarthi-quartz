@@ -1,7 +1,7 @@
 #wiki 
 
 ## brachial Plexus
-[[Brachial Plexus]] : Remember To Always Drink Cold Beer
+[[Brachial Plexus]] : Remember To Drink Cold Beer
 Branches of the [[Brachial Plexus]] : MARMU
 
 ## Rotator Cuff Muscles: SITS
@@ -17,3 +17,8 @@ Pass/Fail/Pass/Fail
 [[Palmaris Longus]]
 [[Flexor Carpi Ulnaris]]
 
+## 321 NOKIA
+Na+/K+ ATP-ase
+3 Na+ out
+2 K+ in
+1 ATP
