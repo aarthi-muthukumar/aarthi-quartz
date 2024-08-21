@@ -11,8 +11,11 @@ Lectures:
 - [[MSK-GA Shoulder]]
 - [[MSK-GA Cubital Fossa and Brachium]]
 - [[MSK-GA Forearm]]
-- [[MSK-GA Hand]]\
 
 Exam Prep
 - [[MSK Exam 2 Preparation]]
-- 
+
+## Lower Limb
+
+Lectures:
+- [[MSK-GA Anterior and Medial Thigh]]

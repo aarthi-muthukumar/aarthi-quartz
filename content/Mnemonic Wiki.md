@@ -22,3 +22,6 @@ Na+/K+ ATP-ase
 3 Na+ out
 2 K+ in
 1 ATP
+
+## Contents of the Femoral triangle: NAVL
+Femoral Nerve, Artery, Vein, Lymphatics

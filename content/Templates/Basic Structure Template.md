@@ -1,0 +1,5 @@
+---
+tags:
+  - structure
+---
+## Definition

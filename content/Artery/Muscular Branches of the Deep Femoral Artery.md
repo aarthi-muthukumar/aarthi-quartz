@@ -1,11 +1,12 @@
 ---
 tags:
   - artery
+  - structure
 ---
 
 
 ## Parent
-
+[[Deep Femoral Artery]]
 
 
 ## Divisions
@@ -13,7 +14,7 @@ tags:
 
 
 ## Function
-
+provide perfusion to muscles in thigh
 
 
 
