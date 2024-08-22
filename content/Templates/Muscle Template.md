@@ -1,8 +1,7 @@
 ---
-tags: []
+tags:
+  - structure
 ---
-
-
 ## Type/Region 
 
 ## Origin

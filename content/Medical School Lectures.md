@@ -19,3 +19,7 @@ Exam Prep
 
 Lectures:
 - [[MSK-GA Anterior and Medial Thigh]]
+- [[MSK-GA Gluteal Region and Posterior Thigh]]
+- [[MSK-RAD Diagnostic Imaging of the Lower Limb]]
+- [[MSK-PHYS Neuromuscular Junction]]
+- [[MSK-HISTO Skeletal Muscle Histology]]

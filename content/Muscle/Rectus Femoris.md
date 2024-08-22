@@ -3,11 +3,12 @@ tags:
   - Muscle
   - structure
 ---
+
 ## Type/Region 
 Lower Limb
 
 ## Origin
-[[Iliac#Anterior Inferior Iliac Spine (AIIS)]]
+[[Ilium#Anterior Inferior Iliac Spine (AIIS]]
 
 ## Insertion
 - Superior [[Patella]] 

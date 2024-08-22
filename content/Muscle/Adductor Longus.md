@@ -3,26 +3,24 @@ tags:
   - structure
   - Muscle
 ---
-
-
 ## Type/Region 
 Lower Limb
 
 ## Origin
-[[Ilium#Iliac Fossa]]
+Anterior body of the pubis
 
 ## Insertion
-[[Femur#Lesser Trochanter]] of the Femur
+Medial Lip of the[[Femur#Linea Aspera]]
 
 ## Innervation
-L2-L3 [[Femoral Nerve]]
+Anterior Division of the [[Obturator Nerve]]
 
 ## Perfusion
 
 \
 ## Actions
-- Flexion and Lateral rotation of thigh
+Adduction of thigh, Flexion of thigh
 
 ## See Also:
-[[Psoas Major]]
+
 

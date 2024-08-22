@@ -1,4 +1,12 @@
+---
+tags:
+  - Lectures
+---
 
+> Note Type: [[Medical School Lectures]]
+> Block: Musculoskeletal 
+> Sub-Block: Exam
+> Date: {{date}}
 ## Things I need to Review
 - MSK - Physiology 
 	- Lecture 1: Review Hyperkalemia/Hypokalemia, etc. 

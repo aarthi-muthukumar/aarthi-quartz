@@ -15,11 +15,16 @@ tags:
 - line on the anterior portion of the femur
 - Origin site for the [[Vastus Medialis]]
 
+### Adductor Tubercle
+- Insertion point for the [[Adductor Magnus#Hamstring Head]]
+### Gluteal Tuberosity
+- Attachment point for the [[Adductor Magnus#Adductor Head]]
 ### Greater Trochanter
 
 ### Lesser Trochanter
 - attachment point for the [[Iliacus]]
-
+### Trochanteric Fossa
+- Attachment point for the [[Obturator Externus]]
 ## Diagnoses
 
 

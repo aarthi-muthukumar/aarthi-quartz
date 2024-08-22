@@ -8,7 +8,7 @@ tags:
 Lower Limb
 
 ## Origin
-[[Iliac#Anterior Inferior Iliac Spine (AIIS)]]
+[[Ilium#Anterior Superior Iliac Spine (ASIS)]]
 
 ## Insertion
 Medial [[Tibia]] just below the condyle, at the [[Pes Anserinus]]

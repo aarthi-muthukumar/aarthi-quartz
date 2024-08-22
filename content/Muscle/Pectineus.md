@@ -4,25 +4,24 @@ tags:
   - Muscle
 ---
 
-
 ## Type/Region 
 Lower Limb
 
 ## Origin
-[[Ilium#Iliac Fossa]]
+Pectineal line of the pubis
 
 ## Insertion
-[[Femur#Lesser Trochanter]] of the Femur
+Pectineal line of the femur
 
 ## Innervation
-L2-L3 [[Femoral Nerve]]
+[[Obturator Nerve]] and [[Femoral Nerve]]
 
 ## Perfusion
 
 \
 ## Actions
-- Flexion and Lateral rotation of thigh
+Flexion and adduction of the thigh
 
 ## See Also:
-[[Psoas Major]]
+
 
