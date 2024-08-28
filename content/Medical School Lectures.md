@@ -23,3 +23,5 @@ Lectures:
 - [[MSK-RAD Diagnostic Imaging of the Lower Limb]]
 - [[MSK-PHYS Neuromuscular Junction]]
 - [[MSK-HISTO Skeletal Muscle Histology]]
+- [[MSK-GA Foot]]
+- 

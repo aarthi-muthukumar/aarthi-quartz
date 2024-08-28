@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - Lectures
 ---
 
 > Note Type: [[Medical School Lectures]]
