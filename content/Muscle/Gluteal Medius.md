@@ -1,6 +1,7 @@
 ---
 tags:
   - structure
+  - Muscle
 ---
 ## Type/Region 
 Lower Limb 
